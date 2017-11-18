@@ -1,0 +1,2 @@
+node color.js
+PAUSE
