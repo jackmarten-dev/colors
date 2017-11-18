@@ -222,7 +222,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -333,7 +333,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -443,7 +443,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -553,7 +553,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -663,7 +663,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -773,7 +773,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -883,7 +883,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -993,7 +993,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1103,7 +1103,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1213,7 +1213,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1325,7 +1325,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1436,7 +1436,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1547,7 +1547,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1658,7 +1658,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1769,7 +1769,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1880,7 +1880,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -1991,7 +1991,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2102,7 +2102,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2213,7 +2213,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2324,7 +2324,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2435,7 +2435,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2546,7 +2546,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2657,7 +2657,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2768,7 +2768,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2879,7 +2879,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -2990,7 +2990,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3101,7 +3101,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3212,7 +3212,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3323,7 +3323,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3434,7 +3434,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3545,7 +3545,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3656,7 +3656,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3767,7 +3767,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3878,7 +3878,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -3989,7 +3989,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4100,7 +4100,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4211,7 +4211,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4322,7 +4322,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4433,7 +4433,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4544,7 +4544,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4655,7 +4655,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4766,7 +4766,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4877,7 +4877,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -4988,7 +4988,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5099,7 +5099,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5210,7 +5210,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5321,7 +5321,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5432,7 +5432,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5543,7 +5543,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5654,7 +5654,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5765,7 +5765,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5876,7 +5876,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -5987,7 +5987,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6098,7 +6098,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6209,7 +6209,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6320,7 +6320,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6431,7 +6431,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6542,7 +6542,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6653,7 +6653,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6764,7 +6764,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6875,7 +6875,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -6986,7 +6986,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7097,7 +7097,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7208,7 +7208,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7319,7 +7319,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7431,7 +7431,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7542,7 +7542,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7653,7 +7653,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7764,7 +7764,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7874,7 +7874,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -7984,7 +7984,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8094,7 +8094,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8204,7 +8204,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8314,7 +8314,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8424,7 +8424,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8534,7 +8534,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8644,7 +8644,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8754,7 +8754,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8864,7 +8864,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -8974,7 +8974,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9084,7 +9084,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9194,7 +9194,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9304,7 +9304,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9414,7 +9414,7 @@ message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9524,7 +9524,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9635,7 +9635,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9746,7 +9746,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9857,7 +9857,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -9968,7 +9968,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10079,7 +10079,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10190,7 +10190,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10301,7 +10301,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10412,7 +10412,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10523,7 +10523,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10634,7 +10634,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10745,7 +10745,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10856,7 +10856,7 @@ message.member.addRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -10967,7 +10967,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.addRole(message.guild.roles.find("name", "98"));
 message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -11078,7 +11078,7 @@ message.member.removeRole(message.guild.roles.find("name", "97"));
 message.member.removeRole(message.guild.roles.find("name", "98"));
 message.member.addRole(message.guild.roles.find("name", "99"));
 message.member.removeRole(message.guild.roles.find("name", "100"));	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
@@ -11191,7 +11191,7 @@ message.member.removeRole(message.guild.roles.find("name", "99"));
 message.member.addRole(message.guild.roles.find("name", "100"));
 
 	const embed = new Discord.RichEmbed()
- 	.setFooter('Requested by:'+message.author.name, message.author.avatarURL)
+ 	.setFooter('Requested by '+message.author.username, message.author.avatarURL)
    .setDescription(`تم تغير اللون بنجاح`)
   message.channel.sendEmbed(embed);
 	}
