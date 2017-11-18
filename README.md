@@ -42,7 +42,7 @@ Follow these instructions to run imgwelcome:
 ## Testing
 
 1. open terminal and type `node color.js` *In C9* | If in windows open *run.bat*
-2. leave server and join
+2. type in server #color <No. Of Color>
 
 ## Reporting problems
 
